@@ -1,4 +1,4 @@
-package com.elmiramadadi;
+package com.elmiramadadi.essentials;
 
 public class User {
     //Fields(attributes)
